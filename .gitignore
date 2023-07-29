@@ -1,0 +1,2 @@
+# Dependency Directory //依存関係のあるディレクトリのためgit管理対象から外すもの
+node_modules/
